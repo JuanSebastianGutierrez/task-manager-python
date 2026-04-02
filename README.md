@@ -28,4 +28,4 @@ El código fuente se encuentra dentro de la carpeta `src/` y se divide en:
 ### Pasos
 1. Clona este repositorio en tu computadora:
    ```bash
-   git clone [https://github.com/JuanSebastianGutierrez/task-manager-python.git](https://github.com/JuanSebastianGutierrez/task-manager-python.git)
+   git clone https://github.com/JuanSebastianGutierrez/task-manager-python.git
